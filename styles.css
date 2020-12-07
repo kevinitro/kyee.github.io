@@ -5,11 +5,11 @@
 }
 #box {
   font-family: "Raleway", sans-serif;
-  margin-left: 100px;
-  margin-top: 50px;
-  padding: 20px;
+  margin-left: 10%;
+  margin-top: 5%;
+  padding: 2%;
   background: white;
-  width: 400px;
+  width: 30%;
 }
 
 #mini_box {
