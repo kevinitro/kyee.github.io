@@ -12,6 +12,12 @@
   width: 30%;
 }
 
+@media screen and (max-width: 600px){
+  #box{
+    width: 80%;
+  }
+}
+
 #mini_box {
   margin-top: 90px;
 }
